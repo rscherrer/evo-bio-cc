@@ -1,6 +1,6 @@
 # evo-bio-cc
 
-Mirror to my contributions to the [Crash Course in Evolutionary Biology](https://evobiocrashcourse.github.io/).
+Links to my contributions to the [Crash Course in Evolutionary Biology](https://evobiocrashcourse.github.io/).
 
 ## Lectures and clips
 
