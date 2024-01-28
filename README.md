@@ -17,3 +17,4 @@ Links to my contributions to the [Crash Course in Evolutionary Biology](https://
 
 * [Practical on Quantitative Genetics](https://github.com/rscherrer/evo-bio-cc-quantitative-genetics-practical)
 * [Practical on Models of Sexual Selection](https://github.com/rscherrer/evo-bio-cc-sexual-selection-practical)
+* [Template for building practicals](https://github.com/rscherrer/evo-bio-cc-practical-template)
