@@ -2,7 +2,7 @@
 
 Mirror to my contributions to the [Crash Course in Evolutionary Biology](https://evobiocrashcourse.github.io/).
 
-Lectures and clips:
+## Lectures and clips
 
 * [Evolutionary Quantitative Genetics](https://youtu.be/LPm_m8wMT-I?si=4Hj92GsuwXG9C18U)
 * [Speciation](https://youtu.be/tON-7f_6u28?si=IVW5-j6RB0Kpbhej)
@@ -13,7 +13,7 @@ Lectures and clips:
 * [Adaptive Dynamics](https://youtu.be/x3FnsyCq_0I?si=mQhjGVrxNJ55goCa)
 * [Philosophy of Models](https://youtu.be/VJiy_4GDAsc?si=BhFOoUY5rnTJspWY)
 
-Practicals:
+## Practicals
 
 * Practical on Quantitative Genetics
 * Practical on Models of Sexual Selection
