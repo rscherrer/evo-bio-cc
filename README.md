@@ -13,6 +13,8 @@ Links to my contributions to the [Crash Course in Evolutionary Biology](https://
 * [Adaptive Dynamics](https://youtu.be/x3FnsyCq_0I?si=mQhjGVrxNJ55goCa)
 * [Philosophy of Models](https://youtu.be/VJiy_4GDAsc?si=BhFOoUY5rnTJspWY)
 
+(Associated PDFs are in the `pdf/` folder.)
+
 ## Practicals
 
 * [Practical on Quantitative Genetics](https://github.com/rscherrer/evo-bio-cc-quantitative-genetics-practical)
