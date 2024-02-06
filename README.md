@@ -4,6 +4,8 @@ Links to my contributions to the [Crash Course in Evolutionary Biology](https://
 
 ## Lectures and clips
 
+Subtitles available in English and in French.
+
 * [Evolutionary Quantitative Genetics](https://youtu.be/LPm_m8wMT-I?si=4Hj92GsuwXG9C18U)
 * [Speciation](https://youtu.be/tON-7f_6u28?si=IVW5-j6RB0Kpbhej)
 * [Phylogenetics](https://youtu.be/Y76zl6_5s7I?si=zRFW95BaqFj1kSvT)
