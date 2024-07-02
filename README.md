@@ -22,3 +22,7 @@ Subtitles available in English and in French.
 * [Practical on Quantitative Genetics](https://github.com/rscherrer/evo-bio-cc-quantitative-genetics-practical)
 * [Practical on Models of Sexual Selection](https://github.com/rscherrer/evo-bio-cc-sexual-selection-practical)
 * [Template for building practicals](https://github.com/rscherrer/evo-bio-cc-practical-template)
+
+## Others
+
+Check [this page](docs/SUGGESTIONS.md) for suggestions for improvement.
