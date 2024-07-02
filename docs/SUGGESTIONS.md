@@ -66,7 +66,8 @@ Ideas for possible new content:
 * Maybe a practical on building your own simulation. With examples in R, Python, C++. Could use GitHub actions to check the answers.
 * Maybe a practical on data wrangling and data analysis? Or is that too much off-topic?
 * Maybe a mini clip on introgression and incomplete lineage sorting in phylogenetics
-* Maybe a lecture on macro-evolution proper (paleontology, major transitions, stuff like that)
+* Maybe a lecture on macro-evolution proper (paleontology, major transitions, evo-devo, species diversification, origins of life)
+* Maybe a lecture on the evolution of sex
 
 
 
