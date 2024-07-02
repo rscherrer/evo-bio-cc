@@ -2,7 +2,7 @@
 
 Here are my recommendations for what could be improved in further editions (last edition was the 2024 one).
 
-Check [this page](docs/HOMEWORK.md) out for my own homework.
+Check [this page](HOMEWORK.md) out for my own homework.
 
 ## Schedule
 
@@ -46,11 +46,11 @@ We need to sort out how translations are shared depending on whether the video c
 
 ## General
 
-_**Suggestion 11:**_ Make a [starter pack](docs/STARTERPACK.md) for lecturers: how to make your lectures, captions, how to share recordings (e.g. use Zoom cloud), how the course generally works, etc.
+_**Suggestion 11:**_ Make a [starter pack](STARTERPACK.md) for lecturers: how to make your lectures, captions, how to share recordings (e.g. use Zoom cloud), how the course generally works, etc.
 
 _**Suggestion 12:**_ Is it possibe to give admin status to some people on Slack? Also fix the trial period thing. Maybe a channel only for admins?
 
-_**Suggestion 13:**_ Have a general [countdown](docs/COUNTDOWN.md) with a checklist of deadlines to meet as we approach the start date of the course.
+_**Suggestion 13:**_ Have a general [countdown](COUNTDOWN.md) with a checklist of deadlines to meet as we approach the start date of the course.
 
 _**Suggestion 14:**_ Have a permanent Slack for us to prepare the Crash Course?
 
