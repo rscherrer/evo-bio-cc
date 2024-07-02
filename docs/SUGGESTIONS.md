@@ -68,6 +68,7 @@ Ideas for possible new content:
 * Maybe a mini clip on introgression and incomplete lineage sorting in phylogenetics
 * Maybe a lecture on macro-evolution proper (paleontology, major transitions, evo-devo, species diversification, origins of life)
 * Maybe a lecture on the evolution of sex
+* Maybe a lecture on cultural evolution
 
 
 
