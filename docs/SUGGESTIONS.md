@@ -1,4 +1,4 @@
-# Recommendations
+# Suggestions
 
 Here are my recommendations for what could be improved in further editions (last edition was the 2024 one).
 
