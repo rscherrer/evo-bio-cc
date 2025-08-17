@@ -1,5 +1,27 @@
 ## References mentioned in the videos
 
+### Gene Trees
+
+Chan, Y., Ranwez, V., & Scornavacca, C. (2017). Inferring incomplete lineage sorting, duplications, transfers and losses with reconciliations. Journal of Theoretical Biology, 432, 1–13. https://doi.org/10.1016/j.jtbi.2017.08.008
+Degnan, J. H., DeGiorgio, M., Bryant, D., & Rosenberg, N. A. (2009). Properties of Consensus Methods for Inferring Species Trees from Gene Trees. Systematic Biology, 58(1), 35–54. https://doi.org/10.1093/sysbio/syp008
+Depew, M. J., Lufkin, T., & Rubenstein, J. L. R. (2002). Specification of Jaw Subdivisions by Dlx Genes. Science, 298(5592), 381–385. https://doi.org/10.1126/science.1075703
+Goldman, D., Giri, P. R., & O’Brien, S. J. (1987). A molecular phylogeny of the hominoid primates as indicated by two-dimensional protein electrophoresis. Proceedings of the National Academy of Sciences, 84(10), 3307–3311. https://doi.org/10.1073/pnas.84.10.3307
+Grant, P. R., & Grant, B. R. (1992). Hybridization of bird species. Science, 256(5054), 193–197. https://doi.org/10.1126/science.256.5054.193
+Green, R. E., Krause, J., Briggs, A. W., Maricic, T., Stenzel, U., Kircher, M., Patterson, N., Li, H., Zhai, W., Fritz, M. H.-Y., Hansen, N. F., Durand, E. Y., Malaspinas, A.-S., Jensen, J. D., Marques-Bonet, T., Alkan, C., Prüfer, K., Meyer, M., Burbano, H. A., … Pääbo, S. (2010). A Draft Sequence of the Neandertal Genome. Science, 328(5979), 710–722. https://doi.org/10.1126/science.1188021
+Hahn, M. W., & Hibbins, M. S. (2019). A Three-Sample Test for Introgression. Molecular Biology and Evolution, 36(12), 2878–2882. https://doi.org/10.1093/molbev/msz178
+Mark, M., Rijli, F. M., & Chambon, P. (1997). Homeobox Genes in Embryogenesis and Pathogenesis. Pediatric Research, 42(4), 421–429. https://doi.org/10.1203/00006450-199710000-00001
+McCoy, R. C., Wakefield, J., & Akey, J. M. (2017). Impacts of Neanderthal-Introgressed Sequences on the Landscape of Human Gene Expression. Cell, 168(5), 916-927.e12. https://doi.org/10.1016/j.cell.2017.01.038
+Rabosky, D. L., & Glor, R. E. (2010). Equilibrium speciation dynamics in a model adaptive radiation of island lizards. Proceedings of the National Academy of Sciences, 107(51), 22178–22183. https://doi.org/10.1073/pnas.1007606107
+Reilly, P. F., Tjahjadi, A., Miller, S. L., Akey, J. M., & Tucci, S. (2022). The contribution of neanderthal introgression to modern human traits. Current Biology, 32(18), R970–R983. https://doi.org/10.1016/j.cub.2022.08.027
+Revell, L. J. (2025). Ancestral State Reconstruction of Phenotypic Characters. Evolutionary Biology, 52(1), 1–25. https://doi.org/10.1007/s11692-025-09645-y
+Revell, L. J., & Harmon, L. J. (2022). Phylogenetic comparative methods in R. Princeton University Press.
+Sacerdot, C., Louis, A., Bon, C., Berthelot, C., & Roest Crollius, H. (2018). Chromosome evolution at the origin of the ancestral vertebrate genome. Genome Biology, 19(1), 166. https://doi.org/10.1186/s13059-018-1559-1
+Scally, A., Dutheil, J. Y., Hillier, L. W., Jordan, G. E., Goodhead, I., Herrero, J., Hobolth, A., Lappalainen, T., Mailund, T., Marques-Bonet, T., McCarthy, S., Montgomery, S. H., Schwalie, P. C., Tang, Y. A., Ward, M. C., Xue, Y., Yngvadottir, B., Alkan, C., Andersen, L. N., … Durbin, R. (2012). Insights into hominid evolution from the gorilla genome sequence. Nature, 483(7388), 169–175. https://doi.org/10.1038/nature10842
+Shah, L., Sohail, A., Ahmad, R., Cheng, S., Cao, L., & Wu, W. (2022). The Roles of MADS-Box Genes from Root Growth to Maturity in Arabidopsis and Rice. Agronomy, 12(3), 582. https://doi.org/10.3390/agronomy12030582
+Skov, L., Peyrégne, S., Popli, D., Iasi, L. N. M., Devièse, T., Slon, V., Zavala, E. I., Hajdinjak, M., Sümer, A. P., Grote, S., Bossoms Mesa, A., López Herráez, D., Nickel, B., Nagel, S., Richter, J., Essel, E., Gansauge, M., Schmidt, A., Korlević, P., … Peter, B. M. (2022). Genetic insights into the social organization of Neanderthals. Nature, 610(7932), 519–525. https://doi.org/10.1038/s41586-022-05283-y
+Smith, J., & Kronforst, M. R. (2013). Do Heliconius butterfly species exchange mimicry alleles? Biology Letters, 9(4), 20130503. https://doi.org/10.1098/rsbl.2013.0503
+Zadra, N., Rizzoli, A., & Rota-Stabelli, O. (2021). Chronological Incongruences between Mitochondrial and Nuclear Phylogenies of Aedes Mosquitoes. Life, 11(3), 181. https://doi.org/10.3390/life11030181
+
 ### Species Concept
 
 [https://youtu.be/FihSTb9zhdM](https://youtu.be/FihSTb9zhdM)
