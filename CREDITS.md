@@ -1,5 +1,13 @@
 ## Image credits
 
+### Gene Trees
+
+Picture of a hybrid duck:
+
+Author: Malte
+License: CC-BY 3.0
+https://commons.wikimedia.org/wiki/File:P1050226-Anas-hybrid-germany.JPG
+
 ### Species Concept
 
 [https://youtu.be/FihSTb9zhdM](https://youtu.be/FihSTb9zhdM)
